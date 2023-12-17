@@ -22,5 +22,21 @@
 		"image": "/uploads/cumulus.jpg",
 		"description": "Naturally fluffy up top and lovingly flattened on the base, our cumulus clouds are the ideal decoration for fair-weather skies.",
 		"product_url": "/"
+	},
+	{
+		"id": "BALLS",
+		"name": "Balls",
+		"price": "105",
+		"image": "https://d5wt70d4gnm1t.cloudfront.net/media/a-s/artworks/gardar-eide-einarsson/44155-176986968416/gardar-eide-einarsson-black-balls-800x800.jpg",
+		"description": "Theyre big, theyre black, theyre balls!",
+		"product_url": "/"
+	},
+	{
+		"id": "TOOL",
+		"name": "Tool",
+		"price": "5",
+		"image": "https://hips.hearstapps.com/hmg-prod/images/close-up-of-tools-hanging-on-wall-royalty-free-image-760251967-1563391812.jpg",
+		"description": "Tool for yule",
+		"product_url": "/"
 	}
 ]
